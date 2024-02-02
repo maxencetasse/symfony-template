@@ -1,0 +1,3 @@
+Template symfony with all required dependencies, bootstrap and PHP tutorial.
+
+More informations comming soon...
